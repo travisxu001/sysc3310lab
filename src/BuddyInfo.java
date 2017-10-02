@@ -4,7 +4,8 @@ public class BuddyInfo {
 	public String name;
 	public int pNo;
 
-	//this project is fucked
+	//ITS STUPID
+	
 	
 	
 	public String getName() {
